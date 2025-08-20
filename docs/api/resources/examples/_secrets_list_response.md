@@ -7,24 +7,24 @@
   "next_page_uri": null,
   "secrets": [
     {
-      "created_at": "2025-08-10T10:08:27Z",
+      "created_at": "2025-08-20T10:07:57Z",
       "created_by": {
-        "id": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+        "id": "usr_31XxrMJ0tiIh37b1RZMkoFNvuqr",
         "uri": ""
       },
       "description": "Database password for prod postgres instance",
-      "id": "secret_315ioGEZSvDouRDI0nAfiLtp9B4",
+      "id": "secret_31Xxz2mA4gOE6YVVNDzci4t7gHW",
       "last_updated_by": {
-        "id": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+        "id": "usr_31XxrMJ0tiIh37b1RZMkoFNvuqr",
         "uri": ""
       },
       "metadata": "env=prod,service=postgres",
       "name": "db-password",
-      "updated_at": "2025-08-10T10:08:27Z",
-      "uri": "https://api.ngrok.com/vault_secrets/secret_315ioGEZSvDouRDI0nAfiLtp9B4",
+      "updated_at": "2025-08-20T10:07:57Z",
+      "uri": "https://api.ngrok.com/vault_secrets/secret_31Xxz2mA4gOE6YVVNDzci4t7gHW",
       "vault": {
-        "id": "vault_315ioMaUr0aPvz95UcmI5nP5iwO",
-        "uri": "https://api.ngrok.com/vaults/vault_315ioMaUr0aPvz95UcmI5nP5iwO"
+        "id": "vault_31Xxz7bMdFd78gfY2j7KaILsn4D",
+        "uri": "https://api.ngrok.com/vaults/vault_31Xxz7bMdFd78gfY2j7KaILsn4D"
       }
     }
   ],

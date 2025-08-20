@@ -4,16 +4,16 @@
 
 ```json
 {
-  "created_at": "2025-08-10T10:08:20Z",
+  "created_at": "2025-08-20T10:07:50Z",
   "enforced": false,
-  "id": "ipx_315inOWOsqMwWauqQquEnUa2LK3",
+  "id": "ipx_31XxyCoWpd6onS8OFxwN6otjBtQ",
   "ip_policies": [
     {
-      "id": "ipp_315inTatAuA20E3SZrkRS7O9kkD",
-      "uri": "https://api.ngrok.com/ip_policies/ipp_315inTatAuA20E3SZrkRS7O9kkD"
+      "id": "ipp_31XxyGpJ363k5Vr8i5DUbkN1rM5",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_31XxyGpJ363k5Vr8i5DUbkN1rM5"
     }
   ],
   "type": "dashboard",
-  "uri": "https://api.ngrok.com/ip_restrictions/ipx_315inOWOsqMwWauqQquEnUa2LK3"
+  "uri": "https://api.ngrok.com/ip_restrictions/ipx_31XxyCoWpd6onS8OFxwN6otjBtQ"
 }
 ```
